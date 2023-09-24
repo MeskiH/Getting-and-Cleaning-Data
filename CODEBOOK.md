@@ -3,7 +3,8 @@
 This cookbook provides additional information about the variables and summaries calculated in the tidy_data.txt file.
 
 ## Description of the DATA
-Dataset Information
+##Dataset Information
+
 ## Variables
 
 | Variable | Description | Units |
@@ -29,6 +30,8 @@ extract_features <- grepl("mean|std", features)
 X_test <- read.table(".\UCI HAR Dataset\test\X_test.txt")
 y_test <- read.table(".\UCI HAR Dataset\test\y_test.txt")
 subject_test <- read.table(".\UCI HAR Dataset\test\subject_test.txt")
+
+
 ##Load required packages
 
 
