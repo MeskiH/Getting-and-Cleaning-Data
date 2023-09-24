@@ -32,6 +32,25 @@ y_test <- read.table(".\UCI HAR Dataset\test\y_test.txt")
 subject_test <- read.table(".\UCI HAR Dataset\test\subject_test.txt")
 
 
+
+## Files in folder ‘UCI HAR Dataset’ that will be used are:
+SUBJECT FILES
+
+test/subject_test.txt
+train/subject_train.txt
+
+ACTIVITY FILES
+
+test/X_test.txt
+train/X_train.txt
+
+DATA FILES
+
+test/y_test.txt
+train/y_train.txt
+features.txt 
+activity_labels.txt
+
 ## Load required packages
 
 
