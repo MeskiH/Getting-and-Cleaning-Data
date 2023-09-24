@@ -33,7 +33,7 @@ subject_test <- read.table(".\UCI HAR Dataset\test\subject_test.txt")
 
 
 
-## Files in folder ‘UCI HAR Dataset’ that will be used are:
+## Files in folder ‘UCI HAR Dataset’:
 SUBJECT FILES
 
 test/subject_test.txt
