@@ -3,7 +3,7 @@
 This cookbook provides additional information about the variables and summaries calculated in the tidy_data.txt file.
 
 ## Description of the DATA
-##Dataset Information
+##  Dataset Information
 
 ## Variables
 
@@ -32,7 +32,7 @@ y_test <- read.table(".\UCI HAR Dataset\test\y_test.txt")
 subject_test <- read.table(".\UCI HAR Dataset\test\subject_test.txt")
 
 
-##Load required packages
+## Load required packages
 
 
 if (!require("data.table")) {
